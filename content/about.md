@@ -15,3 +15,7 @@ author: "Легенда"
 * [YouTube](https://www.youtube.com/channel/UC8wS0Ro8ZBqhCCBV6IhCLzw)
 * [VK](https://vk.com/kolohan)
 * [Steam](https://steamcommunity.com/id/kolohan/)
+
+*_Кстати это я._*
+
+![](https://media.tenor.com/2u5FtwpjyWwAAAAC/sigma-male-sigma.gif)
