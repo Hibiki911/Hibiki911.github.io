@@ -1,6 +1,6 @@
 baseURL = "https://Hibiki911.github.io"
 languageCode = "en-us"
-title = "Anubis"
+title = "Легенда"
 theme = "anubis"
 paginate = 3
 publishDir = "docs"
@@ -9,12 +9,12 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Легенда"
 
 [params]
-author = "Dmitry Kolosov"
+author = "Легенда"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
-dateFormat = "2006-01-02"
+dateFormat = "2023-11-15"
 paginationSinglePost = true
 style = "auto"
 readMore = false
@@ -40,29 +40,25 @@ GiscusCategoryId = ""  # mandatory
 GiscusLazyLoad = false  # optional
 
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
-
-[[params.social]]
 id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+url = "https://github.com/Hibiki911"
 
 [menu]
 
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "Обо мне"
 url = "/about/"
 weight = 1
 
 [[menu.main]]
 identifier = "tags"
-name = "Tags"
+name = "Тэги"
 url = "/tags/"
 weight = 2
 
 [[menu.main]]
-name = "Archive"
+name = "Архив"
 identifier = "archive"
 url = "/posts/"
 weight = 3

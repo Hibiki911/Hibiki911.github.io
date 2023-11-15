@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anubis</title>
+    <title>Легенда</title>
     <link>https://Hibiki911.github.io/</link>
-    <description>Anubis</description>
+    <description>Легенда</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://Hibiki911.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Мини гайд</title>
+      <link>https://Hibiki911.github.io/post/cool-post.ru/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Hibiki911.github.io/post/cool-post.ru/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Небольшая обучалка по скилам Invoker&amp;rsquo;а&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Красивый статный мужчина крутит шары в своих руках всю игру и каким то образом кастует невероятные вещи. Боже мой! Как ему это удаётся? Он просто выучил таблицу со всеми возможными комбинациями сфер и может создать что угодно.&lt;/p&gt;
+&lt;p&gt;Но мы с вами хотим так же, поэтому начнём с азов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quas - синий шарик&lt;/li&gt;
+&lt;li&gt;Wex - фиолетовый шарик&lt;/li&gt;
+&lt;li&gt;Exort - оранжевый шарик&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://ih1.redbubble.net/image.2808757086.9527/raf,360x360,075,t,fafafa:ca443f4786.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Это его скилы (1-3). При нажатии заменяет 1 шар на тот, который вы выбрали. Заменяется первый скастованный шар из всех трёх. Для того, чтобы создать какое-либо заклинание нам нужно:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Знать что мы хотим создать (к примеру EMP)&lt;/li&gt;
+&lt;li&gt;Знать какой комбинацией оно создается (Wex Wex Wex)&lt;/li&gt;
+&lt;li&gt;Нажать эту комбинацию на клавиатуре и ультануть&lt;/li&gt;
+&lt;li&gt;Четвертым скиллом у вас появится нужное вам заклинание&lt;/li&gt;
+&lt;li&gt;Если далее вы создадите другое заклинание, то предыдущее заклинание переместится на 5 скилл&lt;/li&gt;
+&lt;li&gt;Создав еще одно, заклинание с 5-го слота пропадает.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;И так. Мы поняли как это всё работает, осталось только всё запомнить. Так что вот вам небольшая шпаргалка. &lt;img src=&#34;https://dota2ok.ru/wp-content/uploads/2017/05/Invoke_list.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ну а дальше я вам покажу небольшую красоту, которую можно сотворить на инвокере. Смотрим. &lt;img src=&#34;https://i.pinimg.com/originals/1a/4a/ed/1a4aedf6523e0fa98d73e95a22db898d.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Про меня</title>
@@ -26,34 +55,6 @@
 &lt;li&gt;&lt;a href=&#34;https://vk.com/kolohan&#34;&gt;VK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://steamcommunity.com/id/kolohan/&#34;&gt;Steam&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Прога</title>
-      <link>https://Hibiki911.github.io/post/cool-post.ru/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://Hibiki911.github.io/post/cool-post.ru/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Небольшая обучалка по скилам Invoker&amp;rsquo;а&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Красивый статный мужчина крутит шары в своих руках всю игру и каким то образом кастует невероятные вещи. Боже мой! Как ему это удаётся? Он просто выучил таблицу со всеми возможными комбинациями сфер и может создать что угодно.&lt;/p&gt;
-&lt;p&gt;Но мы с вами хотим так же, поэтому начнём с азов: &lt;img src=&#34;RackMultipart20231114-1-kir14a_html_3c0121928c39572f.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Quas - синий шарик&lt;/li&gt;
-&lt;li&gt;Wex - фиолетовый шарик&lt;/li&gt;
-&lt;li&gt;Exort - оранжевый шарик&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Это его скилы (1-3). При нажатии заменяет 1 шар на тот, который вы выбрали. Заменяется первый скастованный шар из всех трёх. Для того, чтобы создать какое-либо заклинание нам нужно:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Знать что мы хотим создать (к примеру EMP)&lt;/li&gt;
-&lt;li&gt;Знать какой комбинацией оно создается (Wex Wex Wex)&lt;/li&gt;
-&lt;li&gt;Нажать эту комбинацию на клавиатуре и ультануть&lt;/li&gt;
-&lt;li&gt;Четвертым скиллом у вас появится нужное вам заклинание&lt;/li&gt;
-&lt;li&gt;Если далее вы создадите другое заклинание, то предыдущее заклинание переместится на 5 скилл&lt;/li&gt;
-&lt;li&gt;Создав еще одно, заклинание с 5-го слота пропадает.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;И так. Мы поняли как это всё работает, осталось только всё запомнить. Так что вот вам небольшая шпаргалка. &lt;img src=&#34;RackMultipart20231114-1-kir14a_html_e53c9552599a47d6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Ну а дальше я вам покажу небольшую красоту, которую можно сотворить на инвокере. Смотрим. &lt;img src=&#34;RackMultipart20231114-1-kir14a_html_8b3fbd49b3cc58cd.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

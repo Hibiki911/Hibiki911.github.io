@@ -1,6 +1,6 @@
 +++
 author = "Легенда"
-title = "Прога"
+title = "Мини гайд"
 date = "2023-11-11"
 description = "Делать сайты ... вот так"
 favorite = true
