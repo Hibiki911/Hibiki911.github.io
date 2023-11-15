@@ -1,6 +1,6 @@
 baseURL = "https://Hibiki911.github.io"
 languageCode = "en-us"
-title = "Легенда"
+title = "Главная"
 theme = "anubis"
 paginate = 3
 publishDir = "docs"
@@ -14,7 +14,7 @@ name = "Легенда"
 [params]
 author = "Легенда"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
-dateFormat = "2023-11-15"
+dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
 readMore = false
