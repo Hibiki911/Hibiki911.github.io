@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Главная</title>
+    <title>Мини гайды on Главная</title>
     <link>https://Hibiki911.github.io/post/</link>
-    <description>Главная (Posts)</description>
+    <description>Главная (Мини гайды)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>

@@ -4,6 +4,7 @@ title = "Мини гайд #1"
 date = "2023-11-11"
 description = "Делать сайты ... вот так"
 favorite = false
+tags = ["dota2"]
 +++
 
 **Небольшая обучалка по скилам Invoker'а**

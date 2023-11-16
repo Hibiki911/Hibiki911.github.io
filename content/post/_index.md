@@ -1,6 +1,5 @@
 +++
 aliases = ["posts","articles","blog","showcase","docs"]
-title = "Posts"
-author = "Hugo Authors"
-tags = ["dota2"]
+title = "Мини гайды"
+author = "Легенда"
 +++

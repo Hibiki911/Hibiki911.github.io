@@ -4,6 +4,7 @@ title = "Мини гайд #2"
 date = "2023-11-15"
 description = "Делать сайты ... вот так"
 favorite = false
+tags = ["dota2"]
 +++
 
 **Небольшая обучалка на Shadow Friend'a**
